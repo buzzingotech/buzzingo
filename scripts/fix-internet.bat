@@ -1,0 +1,1 @@
+powershell.exe -Command "& $env:programdata\Syncro\scripts\fix-internet.ps1"
